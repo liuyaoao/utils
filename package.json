@@ -1,0 +1,23 @@
+{
+  "name": "@lya/utils",
+  "version": "1.0.0",
+  "description": "一些通用库函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyaoao/utils.git"
+  },
+  "keywords": [
+    "utils",
+    "lya"
+  ],
+  "author": "liuyaoao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuyaoao/utils/issues"
+  },
+  "homepage": "https://github.com/liuyaoao/utils#readme"
+}
